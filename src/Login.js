@@ -33,7 +33,7 @@ const Login = () => {
       </KeyboardAvoidingView>
     </SafeAreaView>
   );
-}
+};
 export default Login;
 
 const styles = StyleSheet.create({
