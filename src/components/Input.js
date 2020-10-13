@@ -12,7 +12,7 @@ const Input = ({holder}) => {
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: '#eceff1',
+    backgroundColor: '#eceff2',
     padding: 10,
     margin: 10,
     borderRadius: 10,
