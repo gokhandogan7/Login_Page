@@ -22,7 +22,7 @@ const Login = () => {
         behavior={Platform.OS == 'android' ? null : 'padding'}>
         <ScrollView style={{flex: 1}} bounces={false}>
           <View style={{flex: 1}}>
-            <Image source={require('./img/1.png')} style={styles.logoStyle} />
+            <Image source={require('./img/1.png')} style={styles.logoStyle}/>
 
             <Input holder="E-posta adresinizi giriniz..."/>
             <Input holder="Şifrenizi giriniz.." />
