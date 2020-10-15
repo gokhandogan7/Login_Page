@@ -24,7 +24,7 @@ const Login = () => {
           <View style={{flex: 1}}>
             <Image source={require('./img/1.png')} style={styles.logoStyle} />
 
-            <Input holder="E-posta adresinizi giriniz.." />
+            <Input holder="E-posta adresinizi giriniz..."/>
             <Input holder="Şifrenizi giriniz.." />
 
             <Button text="Giriş Yap"/>
